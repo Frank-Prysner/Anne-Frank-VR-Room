@@ -1,0 +1,11 @@
+Model Information:
+* title:	Old Book
+* source:	https://sketchfab.com/3d-models/old-book-3295bbb1d7814f7d95264f7a783104f9
+* author:	Blarb (https://sketchfab.com/Blarb)
+
+Model License:
+* license type:	CC-BY-4.0 (http://creativecommons.org/licenses/by/4.0/)
+* requirements:	Author must be credited. Commercial use is allowed.
+
+If you use this 3D model in your project be sure to copy paste this credit wherever you share it:
+This work is based on "Old Book" (https://sketchfab.com/3d-models/old-book-3295bbb1d7814f7d95264f7a783104f9) by Blarb (https://sketchfab.com/Blarb) licensed under CC-BY-4.0 (http://creativecommons.org/licenses/by/4.0/)

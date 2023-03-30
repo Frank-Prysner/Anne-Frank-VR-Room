@@ -1,0 +1,11 @@
+Model Information:
+* title:	Books
+* source:	https://sketchfab.com/3d-models/books-91c690b91dcc485b88cc2078a54b6a9d
+* author:	Henry VIII (https://sketchfab.com/henryviii)
+
+Model License:
+* license type:	CC-BY-4.0 (http://creativecommons.org/licenses/by/4.0/)
+* requirements:	Author must be credited. Commercial use is allowed.
+
+If you use this 3D model in your project be sure to copy paste this credit wherever you share it:
+This work is based on "Books" (https://sketchfab.com/3d-models/books-91c690b91dcc485b88cc2078a54b6a9d) by Henry VIII (https://sketchfab.com/henryviii) licensed under CC-BY-4.0 (http://creativecommons.org/licenses/by/4.0/)
