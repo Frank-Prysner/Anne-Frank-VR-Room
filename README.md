@@ -24,5 +24,14 @@ The application is a technical implementation in Unity that recreates the Anne F
 
 1. Add the project in Unity Hub (select the parent folder `A-F-VR-Room(v1.0)`).
 2. Ensure the correct Unity version (2021.3.19f1) is selected.
-3. Open the project and load the main scene at `Assets/Scenes/SampleScene.unity`.
+3. Open the project and load the main scene at `Assets/_Project/Scenes/SampleScene.unity`.
 4. Press the **Play** button in the Unity Editor (ensure your VR headset is connected via Link/AirLink).
+
+## Project Structure Notes
+
+- The active Unity project is in `A-F-VR-R(v1.0)/`.
+- For better maintainability, non-Unity root assets were moved to:
+    - `A-F-VR-R(v1.0)/_SourceAssets/LegacyRoot/`
+- This keeps the project root clean without affecting Unity scene/prefab references, because these files were outside `Assets/`.
+- Cleanup and refactor guidelines are documented in:
+    - `A-F-VR-R(v1.0)/_Docs/PROJECT_STRUCTURE.md`
